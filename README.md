@@ -201,3 +201,219 @@ GGTC.info-MASTER-GOVERNANCE-FRAMEWORK/
 ├── /archive
 │
 └── /assets
+
+📚 Documentation Index
+
+Document
+
+Purpose
+
+README.md
+
+Public governance overview
+
+LICENSE.md
+
+Public release protection
+
+SOURCES.md
+
+Approved verification sources
+
+CITATION_POLICY.md
+
+Citation standards
+
+CHANGELOG.md
+
+Version tracking
+
+📖 Glossary
+
+Term
+
+Definition
+
+Continuity
+
+Long-term preservation and synchronization of systems
+
+Governance
+
+Structure used to maintain consistency and authority
+
+Semantic Systems
+
+Structured terminology and indexing frameworks
+
+Canonical
+
+Official ecosystem-recognized structure
+
+Repository Governance
+
+Rules controlling repository consistency
+
+Archive Infrastructure
+
+Systems preserving historical continuity
+
+Educational Infrastructure
+
+Structured learning and publishing systems
+
+📚 Citation Governance
+
+Approved Source Types
+
+Technical Documentation
+
+* Oracle Documentation
+* OpenJDK
+* MDN
+* W3C
+* GitHub Documentation
+
+Standards + Infrastructure
+
+* Google Search Central
+* Schema.org
+* NIST
+* NASA
+
+Educational / Institutional
+
+* UNESCO
+* Library of Congress
+
+⸻
+
+🚫 Restricted Source Policy
+
+The following are excluded as primary authority sources:
+
+* Wikipedia
+* unverified aggregation systems
+* anonymous reference summaries
+
+⸻
+
+🔗 Approved Verification Sources
+
+Repository Infrastructure
+
+* https://docs.github.com
+
+Search + Semantic Systems
+
+* https://developers.google.com/search
+* https://schema.org
+
+Technical Documentation
+
+* https://developer.mozilla.org
+
+Educational Infrastructure
+
+* https://www.nasa.gov/stem
+* https://www.unesco.org/en/education
+
+Archive Systems
+
+* https://www.loc.gov/programs/web-archiving
+
+⸻
+
+🏛️ Archive Governance
+
+Repositories are treated as:
+
+* continuity systems
+* documentation infrastructure
+* educational preservation layers
+* semantic archives
+
+Archive systems should maintain:
+
+* timestamps
+* version history
+* changelog continuity
+* structural preservation
+
+⸻
+
+🔗 Cross-Repository Continuity
+
+Repositories should reinforce:
+
+* semantic consistency
+* documentation continuity
+* ecosystem synchronization
+* structured indexing
+* canonical naming standards
+
+⸻
+
+📖 README Governance
+
+README systems function as:
+
+* public infrastructure guides
+* continuity references
+* repository entry systems
+* synchronization documentation
+
+⸻
+
+🧠 Constraint Rule
+
+No system layer should expand without:
+
+* a defined operational purpose
+* repository placement
+* governance alignment
+
+⸻
+
+👥 GGTC.info Authors + Media Team
+
+Contributor
+
+Operational Layer
+
+Olivia Bennett
+
+STEM Research Systems
+
+Daniel Carter
+
+SEO Infrastructure
+
+Ethan Brooks
+
+Governance Continuity
+
+Rachel Kim
+
+Content Systems
+
+Michael Torres
+
+Digital Content Architecture
+
+Evan Medeiros
+
+Semantic Media Systems
+
+Bishop Winthrop
+
+Visual Documentation
+
+George Proctor
+
+Media Specialist Analyst
+
+Antonio Fabrizio
+
+Team Logistics Specialist
+
